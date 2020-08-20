@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "FractalOrRecursionTree", "FractalOrRecursionTree\FractalOrRecursionTree.pyproj", "{7B8C3494-6AE9-41F2-A925-FE9303B5A14B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B8C3494-6AE9-41F2-A925-FE9303B5A14B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B8C3494-6AE9-41F2-A925-FE9303B5A14B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {65075B1E-3B0C-442C-B3A2-62144A55C574}
+	EndGlobalSection
+EndGlobal
